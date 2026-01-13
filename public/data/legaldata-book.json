@@ -1,0 +1,862 @@
+﻿[
+    {
+        "url":  "https://legaldata.mn/book/view/403",
+        "image":  "https://legaldata.mn/storage/pictures/3038/01KE9BHNH20QG01CPSE0XCXTSB.jpg",
+        "author":  "Д.Сүнжид",
+        "title":  "Үндсэн хууль Хүний эрх Захиргааны эрх зүй",
+        "price":  "70,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/402",
+        "image":  "https://legaldata.mn/storage/pictures/3036/01KE947S2TXJ90C0NR533P33WM.jpg",
+        "author":  "Б.Өнөрмаа",
+        "title":  "Эрүүгийн процесс: Зарчим, Хэрэглээ",
+        "price":  "69,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/401",
+        "image":  "https://legaldata.mn/storage/pictures/3029/01KBMCFFYPQT2CPYD577W34G7G.jpg",
+        "author":  "Т.Азжаргал",
+        "title":  "Хууль зүйн хариуцлага",
+        "price":  "40,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/400",
+        "image":  "https://legaldata.mn/storage/pictures/3024/01KBM9GBTGX012EYFH0DZ222EC.jpg",
+        "author":  "Т.Азжаргал",
+        "title":  "Үндсэн хуулийн амин сүнс: Хариуцлага, онол, үзэл баримтлал, хэрэглээ",
+        "price":  "120,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/399",
+        "image":  "https://legaldata.mn/storage/pictures/3016/01KB6Z743D1XXNQQSM77EZ9YW9.jpg",
+        "author":  "",
+        "title":  "ДЭНС ханцуйны товч",
+        "price":  "15,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/398",
+        "image":  "https://legaldata.mn/storage/pictures/3000/01KA162YKR71YEQXMVQF9HYCWW.jpg",
+        "author":  "",
+        "title":  "\"Дэнс\" буйдангийн дэрний уут /хар/",
+        "price":  "20,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/397",
+        "image":  "https://legaldata.mn/storage/pictures/2996/01KA15BKQ22NWEC1QP4A35GVZ0.jpg",
+        "author":  "",
+        "title":  "\"Дэнс\" буйдангийн дэрний уут /бор шаргал/",
+        "price":  "15,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/396",
+        "image":  "https://legaldata.mn/storage/pictures/3001/01KA389232PX0SV0BAM22DJ6FR.jpg",
+        "author":  "",
+        "title":  "Зангианы ДЭНС хавчаар /мөнгөлөг/",
+        "price":  "15,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/395",
+        "image":  "https://legaldata.mn/storage/pictures/2992/01KA135B8N8ZK8NH4HSQQN93K2.jpg",
+        "author":  "",
+        "title":  "Зангианы ДЭНС хавчаар /шаргал/",
+        "price":  "15,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/394",
+        "image":  "https://legaldata.mn/storage/pictures/2990/01KA08ATKMJZWKCAM3XMF7TK44.jpg",
+        "author":  "",
+        "title":  "3D Фемида",
+        "price":  "36,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/330",
+        "image":  "https://legaldata.mn/storage/pictures/2495/НОВА-ок.jpg",
+        "author":  "Ж.Эрдэнэбулган, С.Батгэрэл, Л.Галбадар, М.Мөнхбаатар",
+        "title":  "Эрүүгийн эрх зүйн бодлого, тохиолдол, хууль хэрэглээ",
+        "price":  "40,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/315",
+        "image":  "https://legaldata.mn/storage/pictures/2958/01K3JW16NGBJX44S6J7VD4P666.jpg",
+        "author":  "Өмгөөллийн \"Сүлд Эм Жи Легал\" ХХН",
+        "title":  "Хуулийн эмхэтгэл-Эрүүгийн хууль, Эрүүгийн хэрэг хянан шийдвэрлэх тухай хууль, Улсын дээд шүүхийн тайлбар албан ёсны тайлбар, аргачлал",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/314",
+        "image":  "https://legaldata.mn/storage/pictures/2959/01K3JW5KMPSVV9ZRZA0KN074CX.jpg",
+        "author":  "Өмгөөллийн \"Сүлд Эм Жи Легал\" ХХН",
+        "title":  "Хуулийн эмхэтгэл-Иргэний хууль, Иргэний хэрэг шүүхэд хянан шийдвэрлэх тухай хууль, Улсын дээд шүүхийн албан ёсны тайлбар",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/173",
+        "image":  "https://legaldata.mn/storage/pictures/1270/111.jpg",
+        "author":  "О.Мөнхсайхан",
+        "title":  "Эрх зүйн философи /анхны хэвлэл/",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/362",
+        "image":  "https://legaldata.mn/storage/pictures/2969/01K6CWWGJ2X6XKZ312N988KR2E.jpg",
+        "author":  "Ц.Гантулгабат",
+        "title":  "Эрүүгийн хууль тогтоомжийн хэрэглээ /Нэмж засварласан тав дахь хэвлэл/",
+        "price":  "40,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/342",
+        "image":  "https://legaldata.mn/storage/pictures/2595/Нова.jpg",
+        "author":  "Г.Банзрагч",
+        "title":  "Захиргааны (процессын) эрх зүй-33 тохиолдол",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/371",
+        "image":  "https://legaldata.mn/storage/pictures/2782/01JJ6KRGRXC0186KXA56GSJ2TM.png",
+        "author":  "Легал дата",
+        "title":  "Захиргааны хуулийн эмхэтгэл (Судалгаа, хэрэглээний системчилсэн эмхэтгэл)",
+        "price":  "35,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/320",
+        "image":  "https://legaldata.mn/storage/pictures/2429/Nova-ok.jpg",
+        "author":  "Г.Банзрагч",
+        "title":  "Захиргааны процессын эрх зүй",
+        "price":  "65,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/35",
+        "image":  "https://legaldata.mn/storage/pictures/362/1.jpg",
+        "author":  "Ч.Дэмчигдорж",
+        "title":  "Шинэ засгийн гол ёс",
+        "price":  "10,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/49",
+        "image":  "https://legaldata.mn/storage/pictures/466/Мөнхцэцэг.jpg",
+        "author":  "О.Мөнхцэцэг",
+        "title":  "Прокурорын тэмдэглэл",
+        "price":  "22,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/70",
+        "image":  "https://legaldata.mn/storage/pictures/567/4.Эрх-зүйн-үзэл-санаа1.jpg",
+        "author":  "М.Ванчигмаа",
+        "title":  "Эрх зүйн үзэл санаа",
+        "price":  "15,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/100",
+        "image":  "https://legaldata.mn/storage/pictures/853/1.jpg",
+        "author":  "П.Одгэрэл",
+        "title":  "Татварын эрх зүй",
+        "price":  "50,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/101",
+        "image":  "https://legaldata.mn/storage/pictures/857/2.jpg",
+        "author":  "Б.Пүрэвсүрэн",
+        "title":  "Гудамжны хууль",
+        "price":  "20,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/102",
+        "image":  "https://legaldata.mn/storage/pictures/864/1.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Хууль зүйн мэргэжлийн туслалцаа үзүүлэх явцад эрх зүйн дүгнэлт бэлтгэх",
+        "price":  "20,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/104",
+        "image":  "https://legaldata.mn/storage/pictures/881/1.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Иргэний эрх зүйн БОДЛОГЫН ХУРААМЖ III дэвтэр",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/106",
+        "image":  "https://legaldata.mn/storage/pictures/916/1.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Иргэний эрх зүйн тусгай анги",
+        "price":  "35,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/108",
+        "image":  "https://legaldata.mn/storage/pictures/959/1.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Монгол Улсын хувийн эрх зүйн үндсэн кодификац, харьцуулалт",
+        "price":  "35,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/109",
+        "image":  "https://legaldata.mn/storage/pictures/1467/Нова.jpg",
+        "author":  "М.Ванчигмаа",
+        "title":  "Эрүүгийн хэрэг хянан шийдвэрлэх ажиллагаан дахь иргэний нэхэмжлэл",
+        "price":  "50,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/119",
+        "image":  "https://legaldata.mn/storage/pictures/1046/123.jpg",
+        "author":  "Г.Алтанзаяа",
+        "title":  "Татвар /шинэчилсэн III дах хэвлэл/",
+        "price":  "60,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/120",
+        "image":  "https://legaldata.mn/storage/pictures/1025/Гэр-бүлийн-зарим-асуудал.jpg",
+        "author":  "А.Батбаатар",
+        "title":  "Гэр бүлийн эрх зүйн зарим асуудал /III дахь хэвлэл/",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/122",
+        "image":  "https://legaldata.mn/storage/pictures/1044/123.jpg",
+        "author":  "В.Энхтамир",
+        "title":  "Газрын харилцаа, хөрөнгийн бүртгэл: 300 асуултын хариулт /IY дэхь хэвлэл/",
+        "price":  "20,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/127",
+        "image":  "https://legaldata.mn/storage/pictures/1055/Арбитр-түүхэн-товчоон.jpg",
+        "author":  "Монголын Олон Улсын Арбитр",
+        "title":  "Монгол Улс дахь Арбитрын байгууллага түүхэн товчоон /1930-2020/",
+        "price":  "19,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/152",
+        "image":  "https://legaldata.mn/storage/pictures/1122/01.jpg",
+        "author":  "DK /Dorling Kindersley Limited/ Орчуулсан: Монсудар хэвлэлийн газар",
+        "title":  "Хууль",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/153",
+        "image":  "https://legaldata.mn/storage/pictures/1127/Cover1.jpg",
+        "author":  "М.Доржханд",
+        "title":  "Барилгын ажил гүйцэтгэх гэрээ: ФИДИК-ийн гэрээ болон олон улсын харьцуулалт /Хоёрдугаар хэвлэл/",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/209",
+        "image":  "https://legaldata.mn/storage/pictures/1375/01.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Иргэний эрх зүйн БОДЛОГЫН ХУРААМЖ I дэвтэр /тав дахь хэвлэл/",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/210",
+        "image":  "https://legaldata.mn/storage/pictures/1377/02.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Иргэний эрх зүйн БОДЛОГЫН ХУРААМЖ II /дөрөв дэхь хэвлэл/",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/227",
+        "image":  "https://legaldata.mn/storage/pictures/1527/Nova.jpg",
+        "author":  "Ц.Мөнхдэлгэр А.Пүрэвдулам",
+        "title":  "Захиргааны маргааныг урьдчилан шийдвэрлэх ажиллагаа",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/237",
+        "image":  "https://legaldata.mn/storage/pictures/1564/Нова.jpg",
+        "author":  "О.Отгонтуяа О.Амарсанаа",
+        "title":  "Эрх зүйн философи",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/238",
+        "image":  "https://legaldata.mn/storage/pictures/1566/Нова.jpg",
+        "author":  "О.Отгонтуяа О.Амарсанаа",
+        "title":  "Иргэний эрх зүй",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/240",
+        "image":  "https://legaldata.mn/storage/pictures/1580/1.jpg",
+        "author":  "Өмгөөллийн \"Легал линк Си Би Эй\" ХХН",
+        "title":  "Түлхүүр гардуулах нөхцөлтэй барилгын ажил гүйцэтгэх гэрээний хэрэглээ",
+        "price":  "60,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/243",
+        "image":  "https://legaldata.mn/storage/pictures/2744/01JF75HGXCSFY5TSB6YRKDCYCS.png",
+        "author":  "С.Гантулга Б.Энхболд",
+        "title":  "Эрүүгийн эрх зүй тусгай анги",
+        "price":  "80,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/244",
+        "image":  "https://legaldata.mn/storage/pictures/1640/Нова.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Арилжааны эрх зүйн бодлогын хураамж",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/261",
+        "image":  "https://legaldata.mn/storage/pictures/2001/Нова.jpg",
+        "author":  "Джефри Делмон Орчуулсан: П.Мөнхтогт Ж.Цолмон",
+        "title":  "Төр, хувийн хэвшлийн түншлэлд дэд бүтцийн төсөлд",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/263",
+        "image":  "https://legaldata.mn/storage/pictures/2057/Нова.jpg",
+        "author":  "Б.Ганболд",
+        "title":  "Өмгөөлөгдсөн хүний эрх",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/264",
+        "image":  "https://legaldata.mn/storage/pictures/2092/Нова.jpg",
+        "author":  "Б.Одонгэрэл",
+        "title":  "Хуулийн этгээдэд хүлээлгэх эрүүгийн хариуцлага",
+        "price":  "40,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/265",
+        "image":  "https://legaldata.mn/storage/pictures/2109/Нова.jpg",
+        "author":  "Хууль Зүйн Үндэсний хүрээлэн",
+        "title":  "\"Хууль дээдлэх ёс\" сэтгүүл 2022/3 №89",
+        "price":  "10,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/312",
+        "image":  "https://legaldata.mn/storage/pictures/2323/Nova-ok.jpg",
+        "author":  "Нөмөрт партнерс",
+        "title":  "Гэр бүлийн хууль, Гэр бүлийн хүчирхийлэлтэй тэмцэх тухай хууль",
+        "price":  "20,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/316",
+        "image":  "https://legaldata.mn/storage/pictures/2356/Нова.jpg",
+        "author":  "Б.Дөлгөөн",
+        "title":  "Захиргааны шийдвэр гаргах ажиллагааны эрх зүй: онол, хэрэглээ, тулгамдсан асуудал",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/317",
+        "image":  "https://legaldata.mn/storage/pictures/2362/Нова.jpg",
+        "author":  "Э.Батбаяр, Б.Ганболд",
+        "title":  "Хорихоос өөр төрлийн ял",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/322",
+        "image":  "https://legaldata.mn/storage/pictures/2432/Nova-1.jpg",
+        "author":  "О.Мөнхсайхан",
+        "title":  "Хүний эрх I боть",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/323",
+        "image":  "https://legaldata.mn/storage/pictures/2436/Nova-2.jpg",
+        "author":  "О.Мөнхсайхан",
+        "title":  "Шүүх эрх мэдэл II боть",
+        "price":  "65,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/324",
+        "image":  "https://legaldata.mn/storage/pictures/2440/Nova-3.jpg",
+        "author":  "О.Мөнхсайхан",
+        "title":  "Үндсэн хуулийн нэмэлт, өөрчлөлт III боть",
+        "price":  "55,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/326",
+        "image":  "https://legaldata.mn/storage/pictures/2466/Nova-ok.jpg",
+        "author":  "О.Мөнхсайхан",
+        "title":  "Үндсэн хуулийн хяналт ба тайлбар /үндсэн эрх/",
+        "price":  "80,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/327",
+        "image":  "https://legaldata.mn/storage/pictures/2463/Нова-1.jpg",
+        "author":  "О.Мөнхсайхан",
+        "title":  "Үндсэн хуульт ардчиллын төлөө (2013-2023) ярилцлага, нийтлэл",
+        "price":  "75,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/331",
+        "image":  "https://legaldata.mn/storage/pictures/2509/Нова-окок.jpg",
+        "author":  "Б.Буянхишиг",
+        "title":  "Монголын өмчийн тогтолцооны шилжилт",
+        "price":  "50,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/338",
+        "image":  "https://legaldata.mn/storage/pictures/2553/Nova.jpg",
+        "author":  "Н.Баярмаа",
+        "title":  "Development of real property law in Mongolia: TOWARD A UNIFORM FOUNDATION",
+        "price":  "60,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/358",
+        "image":  "https://legaldata.mn/storage/pictures/2693/01JC0E7YG6A1K8F9SP70T39K15.png",
+        "author":  "А.Пүрэвдулам",
+        "title":  "Бизнесийн удирдлага, эрх зүйн эрдэм шинжилгээний өгүүлэл, илтгэлийн эмхэтгэл",
+        "price":  "60,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/359",
+        "image":  "https://legaldata.mn/storage/pictures/2696/01JC5GQT83MZFPSMDQ6Y8PQDQB.png",
+        "author":  "Роналд Дворкин Орчуулсан: Л.Наранбаяр",
+        "title":  "Хуулийн эзэнт гүрэн",
+        "price":  "70,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/360",
+        "image":  "https://legaldata.mn/storage/pictures/2882/01JV7KS86S415EQ00078ZXXQBA.jpg",
+        "author":  "Ц.Амарсанаа",
+        "title":  "Захиргааны эрх зүй (Ерөнхий анги)",
+        "price":  "66,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/361",
+        "image":  "https://legaldata.mn/storage/pictures/2711/01JDVF148YCY61EVTHG1YN7RS2.png",
+        "author":  "М.Мөнхнаран",
+        "title":  "Олон улсын ба Үндэсний арбитрын эрх зүй",
+        "price":  "42,000₮",
+        "oldPrice":  "60,000₮",
+        "discount":  "30%",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/363",
+        "image":  "https://legaldata.mn/storage/pictures/2738/01JEAEYP4VXC3WZA8FJT5DN41F.png",
+        "author":  "Өмгөөллийн \"Легалгайд\" хуулийн фирм",
+        "title":  "Олон нийтийн амгалан тайван байдал алдагдуулах гэмт хэргийн зүйлчлэлийн үндсэн асуудал",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/364",
+        "image":  "https://legaldata.mn/storage/pictures/2741/01JER711YWBCWGQQBMMB3CV6R4.png",
+        "author":  "Сүлд Эм Жи Легал ХХН",
+        "title":  "Монгол Улсын Үндсэн Хууль",
+        "price":  "9,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/365",
+        "image":  "https://legaldata.mn/storage/pictures/2743/01JER7Z99PTGRTAM1R04DK02TF.png",
+        "author":  "Сүлд Эм Жи Легал ХХН",
+        "title":  "Хөдөлмөрийн тухай хууль /шинэчилсэн найруулга/",
+        "price":  "10,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/366",
+        "image":  "https://legaldata.mn/storage/pictures/2753/01JG3JP7521S7P0VSGZZ208P1M.png",
+        "author":  "Б.Буянхишиг",
+        "title":  "Үнэт цаасны зах зээлийн эрх зүй",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/367",
+        "image":  "https://legaldata.mn/storage/pictures/2768/01JGZT8H5SXGPDXHK42G2X8NH6.png",
+        "author":  "Ч.Доржсүрэн",
+        "title":  "Соёлын өвийг гэмт халдлагаас хамгаалахуй",
+        "price":  "40,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/368",
+        "image":  "https://legaldata.mn/storage/pictures/2771/01JGZZA9HJ21C0T8TFRTWYQS71.jpg",
+        "author":  "Т.Лхагважаргал Б.Ариунзаяа Ө.Намуунбаяр",
+        "title":  "Олон улсын шүүхийн мэтгэлцээний тэмцээн",
+        "price":  "15,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/369",
+        "image":  "https://legaldata.mn/storage/pictures/2775/01JH010KVNRDB52XZM8AW6HJ7Z.png",
+        "author":  "В.Болормаа",
+        "title":  "Бизнесийн эрх зүй",
+        "price":  "90,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/370",
+        "image":  "https://legaldata.mn/storage/pictures/2780/01JHHDTA9PHDC7582DGBPHZ1R3.png",
+        "author":  "Б.Мөнх-Эрдэнэ",
+        "title":  "Эрүүгийн эрх зүйн хууль ёсны зарчим /Онол, философи/",
+        "price":  "50,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/372",
+        "image":  "https://legaldata.mn/storage/pictures/2834/01JQX449HGXY3AHQJJ2CT1DYJ1.jpg",
+        "author":  "Ричард Сасскинд Орчуулсан: С.Цэрэндолгор",
+        "title":  "Цахим шүүх ба Шүүх эрх мэдлийн ирээдүй",
+        "price":  "70,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/373",
+        "image":  "https://legaldata.mn/storage/pictures/2807/01JQ8J1AH5ZFY2PWJQ4CCBT3CF.png",
+        "author":  "Г.Агар-Эрдэнэ Д.Энхбат",
+        "title":  "Парламентын дархлаа",
+        "price":  "20,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/374",
+        "image":  "https://legaldata.mn/storage/pictures/2810/01JQB9SWA1FD3TRM4K9N22XBZC.png",
+        "author":  "Б.Буянхишиг",
+        "title":  "Иргэний процесс дахь нотолгооны эрх зүй",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/375",
+        "image":  "https://legaldata.mn/storage/pictures/2821/01JQREKZGR11J22KN1D8KE4C4T.png",
+        "author":  "Р.Ууганбаатар Д.Сүхболд Г.Аюулгүй М.Цэнджав",
+        "title":  "Үндсэн хуулийн хувьсгал",
+        "price":  "60,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/378",
+        "image":  "https://legaldata.mn/storage/pictures/2841/01JSZVNQ1PKA38BNGBZJKBBVE0.jpg",
+        "author":  "Хууль Зүйн Үндэсний хүрээлэн",
+        "title":  "Судалгааны тайлангийн эмхэтгэл- XVI боть",
+        "price":  "35,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/379",
+        "image":  "https://legaldata.mn/storage/pictures/2840/01JSZVKZRBEG7S98DPHT1VF9QQ.jpg",
+        "author":  "Хууль Зүйн Үндэсний хүрээлэн",
+        "title":  "Судалгааны тайлангийн эмхэтгэл- XVII боть",
+        "price":  "35,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/380",
+        "image":  "https://legaldata.mn/storage/pictures/2839/01JSZVH51T0TDQHG5H7Q4XD6DN.jpg",
+        "author":  "Хууль Зүйн Үндэсний хүрээлэн",
+        "title":  "Судалгааны тайлангийн эмхэтгэл- XVIII боть",
+        "price":  "35,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/381",
+        "image":  "https://legaldata.mn/storage/pictures/2838/01JSZVD34NHCRFH6RPK112GJ65.jpg",
+        "author":  "Г.Давааням",
+        "title":  "Компанийн эрх зүйн онол, практик",
+        "price":  "100,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/382",
+        "image":  "https://legaldata.mn/storage/pictures/2864/01JT2K9STR19M6FY4T47JWGXB4.jpg",
+        "author":  "С.Жавхлан",
+        "title":  "Арбитрын эрх зүйн орчин үеийн чиг хандлага",
+        "price":  "45,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/383",
+        "image":  "https://legaldata.mn/storage/pictures/2901/01JXVGQ542W7GCJJTECAG51SY6.jpg",
+        "author":  "Т.Алтангэрэл",
+        "title":  "Монгол Улс ба гадаадын хөрөнгө оруулагчийн эрх, үүргийн тэнцвэрийг хангах нь",
+        "price":  "75,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/384",
+        "image":  "https://legaldata.mn/storage/pictures/2907/01JYK48Z0KE2K0J0YYZBKG8JA0.jpg",
+        "author":  "Г. Мөнхтулга, Г. Мөнхболд",
+        "title":  "Захиргааны хэрэг шүүхэд хянан шийдвэрлэх ажиллагаа: Амeрикийн Нэгдсэн Улс",
+        "price":  "30,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/385",
+        "image":  "https://legaldata.mn/storage/pictures/2908/01JYK4EFKB4DBTX49HYTVXVQ2V.jpg",
+        "author":  "Г. Мөнхтулга, Г. Мөнхсайхан",
+        "title":  "Захиргааны процессын эрх зүй: Эрх зүйн урьдчилсан хамгаалалт",
+        "price":  "24,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/386",
+        "image":  "https://legaldata.mn/storage/pictures/2909/01JYK4NP33C1PW56D2C24Q41HZ.jpg",
+        "author":  "Г. Мөнхтулга, Г. Мөнхсайхан",
+        "title":  "Захиргааны хэрэг шүүхэд хянан шийдвэрлэх ажиллагаа: Бүгд Найрамдах Солонгос Улс",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/387",
+        "image":  "https://legaldata.mn/storage/pictures/2910/01JYK4SQBMG9GCGN0A3W2V84YV.jpg",
+        "author":  "Г. Мөнхтулга, Г. Мөнхсайхан",
+        "title":  "Захиргааны хэрэг хянан шийдвэрлэх ажиллагаа: Япон Улс",
+        "price":  "25,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/388",
+        "image":  "https://legaldata.mn/storage/pictures/2911/01JYK4ZASNT0X1TCNP0SCAAYDF.jpg",
+        "author":  "Г. Мөнхтулга, Г. Мөнхболд",
+        "title":  "Ерөнхийлөгчийн хориг",
+        "price":  "50,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/389",
+        "image":  "https://legaldata.mn/storage/pictures/2947/01K2NYK21YR3632PEG778A5C8T.jpg",
+        "author":  "Б.Болорсайхан",
+        "title":  "Хүний эрхийн цагаан толгой",
+        "price":  "29,500₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/390",
+        "image":  "https://legaldata.mn/storage/pictures/2960/01K3JW94P0SXAPYCGWHRGKWQEM.jpg",
+        "author":  "Б.Тамир,",
+        "title":  "Бүтээгдэхүүний доголдлоос үүсэх хариуцлага /Харьцуулсан гэм хорын эрх зүйн цуврал/",
+        "price":  "50,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    },
+    {
+        "url":  "https://legaldata.mn/book/view/391",
+        "image":  "https://legaldata.mn/storage/pictures/2974/01K7GE4J5Y1AVE3M9PGXJETQBA.jpg",
+        "author":  "Орчуулсан: Д.Лхагвасүрэн Р.Ууганбаатар Д.Сүхболд Б.Хангай Б.Амарсайхан",
+        "title":  "Америкийн нэгдсэн улсын үндсэн хуулийн тайлбар",
+        "price":  "65,000₮",
+        "oldPrice":  "",
+        "discount":  "",
+        "soldOut":  false
+    }
+]
