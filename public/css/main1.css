@@ -1,0 +1,2 @@
+/* Compatibility alias for deployments expecting main1.css */
+@import url("main.css");
